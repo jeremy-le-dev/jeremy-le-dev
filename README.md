@@ -1,6 +1,6 @@
 # Hi Fellow Devs :wave:
 
-<p align="center">
+<p>
   <samp>
   I'm Jeremy. Front End Engineer from Cannes (France).
   </samp>
