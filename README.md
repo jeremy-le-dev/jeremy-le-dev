@@ -15,6 +15,6 @@ Get in touch with me!
 
 :speech_balloon: <a href="https://www.linkedin.com/in/jeremyfroment/">Connect with me on Linkedin</a>
 
-:bird: <a href="https://twitter.com/jeremy-le-dev">Chat with me on Twitter</a>
+:bird: <a href="https://twitter.com/jeremy_le_dev">Chat with me on Twitter</a>
 
 :globe_with_meridians: <a href="https://www.jeremyfroment.fr">Checkout my website</a>
