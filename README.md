@@ -2,7 +2,7 @@
 
 <p>
   <samp>
-  I'm Jeremy. Front End Engineer from Cannes (France).
+  I'm Jeremy. Front End Engineer from France.
   </samp>
   <br/>
   <br/>
